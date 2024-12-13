@@ -1,3 +1,3 @@
-Nearby - React Native
+# Nearby - React Native
 
-Aplicação mobile com React Native do curso da Rocketseat
+Bem-vindo(a) ao **Readme Template**! Aqui você encontrará uma aplicação mobile desenvolvida com React Native, com base na NLW Pocket Mobile da Rocketseat.
